@@ -22,7 +22,7 @@ class Tree:
     # Finish the implementation
     # You may need to add a new recursive method to do that
     if self.n ==0:
-      return True
+      return True 
 
     stack = []
     current = 0
